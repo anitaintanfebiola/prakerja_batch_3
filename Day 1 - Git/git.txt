@@ -1,7 +1,3 @@
 Nama : Anita Intan Febiola
 Prakerja Batch 3
-<<<<<<< HEAD
 data
-=======
-data git
->>>>>>> 9a2d5912b84defd35e990f772be203cc39998014
